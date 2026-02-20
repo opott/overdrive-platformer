@@ -67,7 +67,7 @@ if keyboard_check(vk_shift) {
 
 // Spike Collisions
 if (place_meeting(x, y, oSpikes)) {
-	//room_restart();
+	room_restart();
 }
 
 // Out of Bounds Handling 
