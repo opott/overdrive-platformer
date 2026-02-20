@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sngMain",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":3,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":40.045715,
+  "exportDir":"",
+  "name":"sngMain",
+  "parent":{
+    "name":"overdrive-platformer",
+    "path":"overdrive-platformer.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sngMain.mp3",
+  "volume":1.0,
+}
